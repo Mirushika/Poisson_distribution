@@ -1,6 +1,8 @@
-                                                        Developed by : RAJARAMAN V
-                                                        Register number : 212223110038
-# Fitting Poisson  distribution
+                                                        Developed by : MIRUSHIKA T
+                                                        Register number : 212224040191
+                                                        Department : B.E.CSE
+                                                        Date:29/04/25
+## Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -32,8 +34,8 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 ```
-DEVELOPED BY : RAJARAMAN V
-REG. NO. : 212223110038
+DEVELOPED BY : MIRUSHIKA T 
+REG. NO. : 212224040191
 ```
 ```
 import numpy as np
@@ -74,7 +76,8 @@ else:
 ```
 
 # Output : 
-![image](https://github.com/Rajaraman77/Poisson_distribution/assets/150319383/b44f7438-03c7-4e9f-b1b3-7b24d00d4466)
+![Screenshot 2025-04-29 141049](https://github.com/user-attachments/assets/44484ff6-cfd1-4e0d-a918-dfd59d6c01d5)
+
 
 
 # Results
